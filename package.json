@@ -1,0 +1,10 @@
+{
+    "name": "my-node-game-server",
+    "version": "1.0.0",
+    "description": "Juego en tiempo real con Node.js y WebSocket",
+    "Scripts":{
+        "start": "node server.js"
+    },
+    "author": "Codefy",
+    "license": "ISC"
+}
